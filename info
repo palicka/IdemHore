@@ -5,9 +5,9 @@
       "locationName": "tatry",
       "cameras" : [
          {
-            "name" : "www.thumb.com",
-            "thumbUrl": "www.thumb.com",
-            "imageUrl": "www.thumb.com",
+            "name" : "name",
+            "thumbUrl": "http://www.zivekamery.sk/webcams/PERMON-l.jpg",
+            "imageUrl": "http://www.zivekamery.sk/webcams/PERMON-l.jpg",
             "videoUrl": "www.thumb.com",
             "sourceUrl": "www.thumb.com"
           },
