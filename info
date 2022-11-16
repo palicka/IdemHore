@@ -1,0 +1,24 @@
+{
+  "locations": [
+    {
+      "id": 1,
+      "locationName": "tatry",
+      "cameras" : [
+         {
+            "name" : "www.thumb.com",
+            "thumbUrl": "www.thumb.com",
+            "imageUrl": "www.thumb.com",
+            "videoUrl": "www.thumb.com",
+            "sourceUrl": "www.thumb.com"
+          },
+                 {
+            "name" : "www.thumb2.com",
+            "thumbUrl": "www.thumb2.com",
+            "imageUrl": "www.thumb2.com",
+            "videoUrl": "www.thumb2.com",
+            "sourceUrl": "www.thumb2.com"
+          }
+      ]
+    }
+  ]
+}
