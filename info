@@ -2,21 +2,119 @@
   "locations": [
     {
       "id": 1,
-      "locationName": "tatry",
+      "locationName": "Vysoké Tatry",
       "cameras" : [
          {
-            "name" : "name",
-            "thumbUrl": "http://www.zivekamery.sk/webcams/PERMON-l.jpg",
-            "imageUrl": "http://www.zivekamery.sk/webcams/PERMON-l.jpg",
-            "videoUrl": "",
-            "sourceUrl": "www.thumb.com"
+            "name" : "Lomnický štít",
+            "thumbUrl": "https://meteo.tmr.sk/api/v2/files/uploads/cams/cam-9-320.jpg",
+            "imageUrl": "https://meteo.tmr.sk/api/v2/files/uploads/cams/cam-9-800.jpg",
+            "videoUrl": "http://stream.profi-net.sk:1935/tmr/STREAM23.stream/playlist.m3u8",
+            "sourceUrl": "https://www.vt.sk/stredisko/info-o-stredisku/webkamery"
           },
-                 {
-            "name" : "name 2",
-            "thumbUrl": "www.thumb2.com",
-            "imageUrl": "www.thumb2.com",
-            "videoUrl": "www.thumb2.com",
-            "sourceUrl": "www.thumb2.com"
+               {
+            "name" : "Solisko",
+            "thumbUrl": "https://meteo.tmr.sk/api/v2/files/uploads/cams/cam-55-320.jpg",
+            "imageUrl": "https://meteo.tmr.sk/api/v2/files/uploads/cams/cam-55-800.jpg",
+            "videoUrl": "http://stream.profi-net.sk:1935/tmr/STREAM31.stream/playlist.m3u8",
+            "sourceUrl": "https://www.vt.sk/stredisko/info-o-stredisku/webkamery"
+          },
+                   {
+            "name" : "Lomnické Sedlo",
+            "thumbUrl": "https://meteo.tmr.sk/api/v2/files/uploads/cams/cam-76-320.jpg",
+            "imageUrl": "https://meteo.tmr.sk/api/v2/files/uploads/cams/cam-76-800.jpg",
+            "videoUrl": "http://stream.profi-net.sk:1935/tmr/STREAM44.stream/playlist.m3u8",
+            "sourceUrl": "https://www.vt.sk/stredisko/info-o-stredisku/webkamery"
+          },
+                   {
+            "name" : "Štart",
+            "thumbUrl": "https://meteo.tmr.sk/api/v2/files/uploads/cams/cam-9-320.jpg",
+            "imageUrl": "https://meteo.tmr.sk/api/v2/files/uploads/cams/cam-9-320.jpg",
+            "videoUrl": "http://stream.profi-net.sk:1935/tmr/STREAM34.stream/playlist.m3u8",
+            "sourceUrl": "https://www.vt.sk/stredisko/info-o-stredisku/webkamery"
+          },
+                   {
+            "name" : "Skalnaté Pleso",
+            "thumbUrl": "https://meteo.tmr.sk/api/v2/files/uploads/cams/cam-37-320.jpg",
+            "imageUrl": "https://meteo.tmr.sk/api/v2/files/uploads/cams/cam-37-800.jpg",
+            "videoUrl": "http://stream.profi-net.sk:1935/tmr/STREAM29.stream/playlist.m3u8",
+            "sourceUrl": "https://www.vt.sk/stredisko/info-o-stredisku/webkamery"
+          },
+                   {
+            "name" : "Tatranská Lomnica",
+            "thumbUrl": "https://meteo.tmr.sk/api/v2/files/uploads/cams/cam-36-320.jpg",
+            "imageUrl": "https://meteo.tmr.sk/api/v2/files/uploads/cams/cam-36-800.jpg",
+            "videoUrl": "http://stream.profi-net.sk:1935/tmr/STREAM33.stream/playlist.m3u8",
+            "sourceUrl": "https://www.vt.sk/stredisko/info-o-stredisku/webkamery"
+          },
+                   {
+            "name" : "Hrebienok",
+            "thumbUrl": "https://meteo.tmr.sk/api/v2/files/uploads/cams/cam-43-320.jpg",
+            "imageUrl": "https://meteo.tmr.sk/api/v2/files/uploads/cams/cam-43-800.jpg",
+            "videoUrl": "http://stream.profi-net.sk:1935/tmr/STREAM14.stream/playlist.m3u8",
+            "sourceUrl": "https://www.vt.sk/stredisko/info-o-stredisku/webkamery"
+          },
+                   {
+            "name" : "Štrbské Pleso",
+            "thumbUrl": "https://meteo.tmr.sk/api/v2/files/uploads/cams/cam-9-320.jpg",
+            "imageUrl": "https://meteo.tmr.sk/api/v2/files/uploads/cams/cam-9-320.jpg",
+            "videoUrl": "http://stream.profi-net.sk:1935/tmr/STREAM32.stream/playlist.m3u8",
+            "sourceUrl": "https://www.vt.sk/stredisko/info-o-stredisku/webkamery"
+          },
+                   {
+            "name" : "Zakopane",
+            "thumbUrl": "",
+            "imageUrl": "",
+            "videoUrl": "",
+            "sourceUrl": ""
+          },
+                   {
+            "name" : "Popradské pleso",
+            "thumbUrl": "",
+            "imageUrl": "",
+            "videoUrl": "",
+            "sourceUrl": ""
+          },
+                   {
+            "name" : "Kriváň",
+            "thumbUrl": "",
+            "imageUrl": "",
+            "videoUrl": "http://stream5.kukaj.sk:1935/live/PERMON.stream/playlist.m3u8",
+            "sourceUrl": ""
+          },
+                   {
+            "name" : "Štrba",
+            "thumbUrl": "",
+            "imageUrl": "",
+            "videoUrl": "",
+            "sourceUrl": ""
+          },
+                   {
+            "name" : "Mengusovská dolina",
+            "thumbUrl": "",
+            "imageUrl": "",
+            "videoUrl": "",
+            "sourceUrl": ""
+          },
+                   {
+            "name" : "Chata pri Zelenom plese",
+            "thumbUrl": "",
+            "imageUrl": "",
+            "videoUrl": "",
+            "sourceUrl": ""
+          },
+                   {
+            "name" : "Štrbské pleso II",
+            "thumbUrl": "",
+            "imageUrl": "",
+            "videoUrl": "http://stream.strba.sk:1935/strba/VYHLAD_JAZERO.stream/playlist.m3u8",
+            "sourceUrl": ""
+          },
+                {
+            "name" : "Ždiar - Strednica",
+            "thumbUrl": "",
+            "imageUrl": "",
+            "videoUrl": "",
+            "sourceUrl": ""
           }
       ]
     }
