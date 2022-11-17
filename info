@@ -25,12 +25,12 @@
             "videoUrl": "http://stream.profi-net.sk:1935/tmr/STREAM44.stream/playlist.m3u8",
             "sourceUrl": "https://www.vt.sk/stredisko/info-o-stredisku/webkamery"
           },
-                   {
-            "name" : "Štart",
-            "thumbUrl": "https://meteo.tmr.sk/api/v2/files/uploads/cams/cam-9-320.jpg",
-            "imageUrl": "https://meteo.tmr.sk/api/v2/files/uploads/cams/cam-9-320.jpg",
-            "videoUrl": "http://stream.profi-net.sk:1935/tmr/STREAM34.stream/playlist.m3u8",
-            "sourceUrl": "https://www.vt.sk/stredisko/info-o-stredisku/webkamery"
+                             {
+            "name" : "Gánovce",
+            "thumbUrl": "https://oh.sk/webcams/d/2565.jpg",
+            "imageUrl": "https://oh.sk/webcams/d/2565.jpg",
+            "videoUrl": "",
+            "sourceUrl": "https://www.shmu.sk/sk/?page=1&id=webkamery"
           },
                    {
             "name" : "Skalnaté Pleso",
@@ -55,66 +55,59 @@
           },
                    {
             "name" : "Štrbské Pleso",
-            "thumbUrl": "https://meteo.tmr.sk/api/v2/files/uploads/cams/cam-9-320.jpg",
-            "imageUrl": "https://meteo.tmr.sk/api/v2/files/uploads/cams/cam-9-320.jpg",
-            "videoUrl": "http://stream.profi-net.sk:1935/tmr/STREAM32.stream/playlist.m3u8",
-            "sourceUrl": "https://www.vt.sk/stredisko/info-o-stredisku/webkamery"
+            "thumbUrl": "https://oh.sk/webcams/d/2205.jpg",
+            "imageUrl": "https://oh.sk/webcams/d/2205.jpg",
+            "videoUrl": "https://stream.profi-net.sk/strba/VYHLAD_ZJAZDOVKY.stream/playlist.m3u8",
+            "sourceUrl": "https://www.panorama.sk/sk/webkamera/strbske-pleso-zjazdovka-zo-soliska/2205"
           },
                    {
             "name" : "Zakopane",
-            "thumbUrl": "",
-            "imageUrl": "",
+            "thumbUrl": "https://www.zol.pl/webcam01/duze/zakopane.jpg",
+            "imageUrl": "https://www.zol.pl/webcam01/duze/zakopane.jpg",
             "videoUrl": "",
-            "sourceUrl": ""
+            "sourceUrl": "https://www.zol.pl/webcam/"
           },
                    {
-            "name" : "Popradské pleso",
-            "thumbUrl": "",
-            "imageUrl": "",
+            "name" : "Popradské pleso I ",
+            "thumbUrl": "https://nobyelsat.sk/kamera/hhpplesostlp.jpeg",
+            "imageUrl": "https://nobyelsat.sk/kamera/hhpplesostlp.jpeg",
             "videoUrl": "",
-            "sourceUrl": ""
+            "sourceUrl": "https://www.popradskepleso.sk/?page_id=1461"
+          },
+                         {
+            "name" : "Popradské pleso II ",
+            "thumbUrl": "https://nobyelsat.sk/kamera/hhpplesoweb.jpeg",
+            "imageUrl": "https://nobyelsat.sk/kamera/hhpplesoweb.jpeg",
+            "videoUrl": "",
+            "sourceUrl": "https://www.popradskepleso.sk/?page_id=1461"
           },
                    {
             "name" : "Kriváň",
-            "thumbUrl": "",
-            "imageUrl": "",
+            "thumbUrl": "http://www.zivekamery.sk/webcams/PERMON-l.jpg",
+            "imageUrl": "http://www.zivekamery.sk/webcams/PERMON-l.jpg",
             "videoUrl": "http://stream5.kukaj.sk:1935/live/PERMON.stream/playlist.m3u8",
-            "sourceUrl": ""
+            "sourceUrl": "http://www.zivekamery.sk/webkamera-live/176-krivan-pohlad-z-hotela-permon"
           },
                    {
             "name" : "Štrba",
-            "thumbUrl": "",
-            "imageUrl": "",
+            "thumbUrl": "http://www.zivekamery.sk/webcams/OBEC_STRBA-l.jpg",
+            "imageUrl": "http://www.zivekamery.sk/webcams/OBEC_STRBA-l.jpg",
             "videoUrl": "",
-            "sourceUrl": ""
-          },
-                   {
-            "name" : "Mengusovská dolina",
-            "thumbUrl": "",
-            "imageUrl": "",
-            "videoUrl": "",
-            "sourceUrl": ""
-          },
-                   {
-            "name" : "Chata pri Zelenom plese",
-            "thumbUrl": "",
-            "imageUrl": "",
-            "videoUrl": "",
-            "sourceUrl": ""
+            "sourceUrl": "http://www.zivekamery.sk/webkamera-live/162-obec-strba"
           },
                    {
             "name" : "Štrbské pleso II",
             "thumbUrl": "",
             "imageUrl": "",
             "videoUrl": "http://stream.strba.sk:1935/strba/VYHLAD_JAZERO.stream/playlist.m3u8",
-            "sourceUrl": ""
+            "sourceUrl": "http://webcam.strba.sk/?cam=jazero-panorama-tatier"
           },
                 {
             "name" : "Ždiar - Strednica",
-            "thumbUrl": "",
-            "imageUrl": "",
+            "thumbUrl": "https://oh.sk/webcams/d/827.jpg",
+            "imageUrl": "https://oh.sk/webcams/d/827.jpg",
             "videoUrl": "",
-            "sourceUrl": ""
+            "sourceUrl": "http://www.snowski.sk/webkamery_export.php?kamera_id=46"
           }
       ]
     }
