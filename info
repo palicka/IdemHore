@@ -54,7 +54,7 @@
             "sourceUrl": "https://www.vt.sk/stredisko/info-o-stredisku/webkamery"
           },
                    {
-            "name" : "Štrbské Pleso",
+            "name" : "Štrbské Pleso I",
             "thumbUrl": "https://oh.sk/webcams/d/2205.jpg",
             "imageUrl": "https://oh.sk/webcams/d/2205.jpg",
             "videoUrl": "https://stream.profi-net.sk/strba/VYHLAD_ZJAZDOVKY.stream/playlist.m3u8",
@@ -97,8 +97,8 @@
           },
                    {
             "name" : "Štrbské pleso II",
-            "thumbUrl": "",
-            "imageUrl": "",
+            "thumbUrl": "https://oh.sk/webcams/d/2538.jpg",
+            "imageUrl": "https://oh.sk/webcams/d/2538.jpg",
             "videoUrl": "http://stream.strba.sk:1935/strba/VYHLAD_JAZERO.stream/playlist.m3u8",
             "sourceUrl": "http://webcam.strba.sk/?cam=jazero-panorama-tatier"
           },
@@ -110,6 +110,113 @@
             "sourceUrl": "http://www.snowski.sk/webkamery_export.php?kamera_id=46"
           }
       ]
-    }
+    },
+    {
+      "id": 2,
+      "locationName": "Nízke Tatry",
+      "cameras" : [
+           {
+            "name" : "Chopok - východ",
+            "thumbUrl": "https://meteo.tmr.sk/api/v2/files/uploads/cams/cam-54-320.jpg",
+            "imageUrl": "https://meteo.tmr.sk/api/v2/files/uploads/cams/cam-54-800.jpg",
+            "videoUrl": "hhttps://stream.profi-net.sk/tmr/STREAM6.stream/playlist.m3u8",
+            "sourceUrl": "https://www.jasna.sk/stredisko/info-o-stredisku/webkamery"
+          },
+                     {
+            "name" : "Telgárt - Tresník",
+            "thumbUrl": "https://skitelgart.sk/cams/TresnikNadol000.jpg",
+            "imageUrl": "https://skitelgart.sk/cams/TresnikNadol000.jpg",
+            "videoUrl": "",
+            "sourceUrl": "https://www.panorama.sk/sk/webkamera/ski-telgart-tresnik-kralova-hola/367"
+          },
+            {
+            "name" : "Luková",
+            "thumbUrl": "https://meteo.tmr.sk/api/v2/files/uploads/cams/cam-70-320.jpg",
+            "imageUrl": "https://meteo.tmr.sk/api/v2/files/uploads/cams/cam-70-800.jpg",
+            "videoUrl": "https://stream.profi-net.sk:443/tmr/STREAM18.stream/playlist.m3u8",
+            "sourceUrl": "https://www.jasna.sk/stredisko/info-o-stredisku/webkamery"
+          },
+            {
+            "name" : "Srdiečko",
+            "thumbUrl": "https://meteo.tmr.sk/api/v2/files/uploads/cams/cam-34-320.jpg",
+            "imageUrl": "https://meteo.tmr.sk/api/v2/files/uploads/cams/cam-34-800.jpg",
+            "videoUrl": "https://stream.profi-net.sk:443/tmr/STREAM22.stream/playlist.m3u8",
+            "sourceUrl": "https://www.jasna.sk/stredisko/info-o-stredisku/webkamery/srdiecko-1210-mnm"
+          },
+            {
+            "name" : "Záhradky",
+            "thumbUrl": "https://meteo.tmr.sk/api/v2/files/uploads/cams/cam-67-320.jpg",
+            "imageUrl": "https://meteo.tmr.sk/api/v2/files/uploads/cams/cam-67-800.jpg",
+            "videoUrl": "https://stream.profi-net.sk:443/tmr/STREAM43.stream/playlist.m3u8",
+            "sourceUrl": "https://www.jasna.sk/stredisko/info-o-stredisku/webkamery/zahradky-1028-m-nm"
+          }
+       ]
+     },
+     
+     {
+      "id": 3,
+      "locationName": "Západné Tatry",
+      "cameras" : [
+           {
+            "name" : "",
+            "thumbUrl": "",
+            "imageUrl": "",
+            "videoUrl": "",
+            "sourceUrl": ""
+          }
+       ]
+     },
+          {
+      "id": 4,
+      "locationName": "Malá Fatra",
+      "cameras" : [
+           {
+            "name" : "",
+            "thumbUrl": "",
+            "imageUrl": "",
+            "videoUrl": "",
+            "sourceUrl": ""
+          }
+       ]
+     },
+          {
+      "id": 5,
+      "locationName": "Veľká Fatra",
+      "cameras" : [
+           {
+            "name" : "",
+            "thumbUrl": "",
+            "imageUrl": "",
+            "videoUrl": "",
+            "sourceUrl": ""
+          }
+       ]
+     },
+          {
+      "id": 6,
+      "locationName": "Lúčanská Malá Fatra",
+      "cameras" : [
+           {
+            "name" : "",
+            "thumbUrl": "",
+            "imageUrl": "",
+            "videoUrl": "",
+            "sourceUrl": ""
+          }
+       ]
+     },
+          {
+      "id": 7,
+      "locationName": "Slovenský raj",
+      "cameras" : [
+           {
+            "name" : "",
+            "thumbUrl": "",
+            "imageUrl": "",
+            "videoUrl": "",
+            "sourceUrl": ""
+          }
+       ]
+     }
   ]
 }
