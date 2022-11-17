@@ -102,6 +102,13 @@
             "videoUrl": "http://stream.strba.sk:1935/strba/VYHLAD_JAZERO.stream/playlist.m3u8",
             "sourceUrl": "http://webcam.strba.sk/?cam=jazero-panorama-tatier"
           },
+          {
+            "name" : "Sliezsky dom",
+            "thumbUrl": "https://wtvpict.feratel.com/picture/37/1080.jpegg",
+            "imageUrl": "https://wtvpict.feratel.com/picture/37/1080.jpeg",
+            "videoUrl": "",
+            "sourceUrl": "https://www.panorama.sk/sk/webkamera/sliezsky-dom/503"
+          },
                 {
             "name" : "Ždiar - Strednica",
             "thumbUrl": "https://oh.sk/webcams/d/827.jpg",
@@ -119,7 +126,7 @@
             "name" : "Chopok - východ",
             "thumbUrl": "https://meteo.tmr.sk/api/v2/files/uploads/cams/cam-54-320.jpg",
             "imageUrl": "https://meteo.tmr.sk/api/v2/files/uploads/cams/cam-54-800.jpg",
-            "videoUrl": "hhttps://stream.profi-net.sk/tmr/STREAM6.stream/playlist.m3u8",
+            "videoUrl": "https://stream.profi-net.sk/tmr/STREAM6.stream/playlist.m3u8",
             "sourceUrl": "https://www.jasna.sk/stredisko/info-o-stredisku/webkamery"
           },
                      {
@@ -149,6 +156,13 @@
             "imageUrl": "https://meteo.tmr.sk/api/v2/files/uploads/cams/cam-67-800.jpg",
             "videoUrl": "https://stream.profi-net.sk:443/tmr/STREAM43.stream/playlist.m3u8",
             "sourceUrl": "https://www.jasna.sk/stredisko/info-o-stredisku/webkamery/zahradky-1028-m-nm"
+          },
+                 {
+            "name" : "Donovaly",
+            "thumbUrl": "https://oh.sk/webcams/d/2230.jpg",
+            "imageUrl": "https://oh.sk/webcams/d/2230.jpg",
+            "videoUrl": "https://stream.profi-net.sk/donovaly/PANORAMA_DONOVALY.stream/playlist.m3u8",
+            "sourceUrl": "https://www.panorama.sk/sk/webkamera/donovaly-panorama/2230"
           }
        ]
      },
@@ -158,11 +172,32 @@
       "locationName": "Západné Tatry",
       "cameras" : [
            {
-            "name" : "",
-            "thumbUrl": "",
-            "imageUrl": "",
+            "name" : "Roháče - Spálená dolina",
+            "thumbUrl": "https://wtvpict.feratel.com/picture/37/1014.jpeg",
+            "imageUrl": "https://wtvpict.feratel.com/picture/37/1014.jpeg",
             "videoUrl": "",
-            "sourceUrl": ""
+            "sourceUrl": "https://www.panorama.sk/sk/webkamery/vysoke-tatry/353"
+          },
+              {
+            "name" : "Pribylina",
+            "thumbUrl": "http://www.zivekamery.sk/webcams/PRIB-m.jpg",
+            "imageUrl": "http://www.zivekamery.sk/webcams/PRIB-l.jpg",
+            "videoUrl": "",
+            "sourceUrl": "http://www.zivekamery.sk/"
+          },
+              {
+            "name" : "Podbanské",
+            "thumbUrl": "http://www.zivekamery.sk/webcams/PERMON_VLEK-m.jpg",
+            "imageUrl": "http://www.zivekamery.sk/webcams/PERMON_VLEK-l.jpg",
+            "videoUrl": "https://stream.profi-net.sk:443/live/PERMON_VLEK.stream/playlist.m3u8",
+            "sourceUrl": "http://www.zivekamery.sk/"
+          },
+              {
+            "name" : "Zakopane - Kasprov vrch",
+            "thumbUrl": "https://oh.sk/webcams/d/2799.jpg",
+            "imageUrl": "https://oh.sk/webcams/d/2799.jpg",
+            "videoUrl": "https://hoktastream1.webcamera.pl/pkl_cam_fa9db5/pkl_cam_fa9db5.stream/playlist.m3u8",
+            "sourceUrl": "https://www.panorama.sk/sk/webkamera/kasprow-vrch-zapadne-tatry/2799"
           }
        ]
      },
@@ -171,11 +206,46 @@
       "locationName": "Malá Fatra",
       "cameras" : [
            {
-            "name" : "",
-            "thumbUrl": "",
-            "imageUrl": "",
+            "name" : "Zázrivá I",
+            "thumbUrl": "http://cam.hotelhavrania.sk/view.php?preview=0&cam=1/view.jpg",
+            "imageUrl": "http://cam.hotelhavrania.sk/view.php?preview=0&cam=1/view.jpg",
             "videoUrl": "",
-            "sourceUrl": ""
+            "sourceUrl": "https://www.hotelhavrania.sk/sk/hotel/webcam"
+          },
+          {
+            "name" : "Chata pod Chlebom",
+            "thumbUrl": "https://oh.sk/webcams/d/1208.jpg",
+            "imageUrl": "https://oh.sk/webcams/d/1208.jpg",
+            "videoUrl": "http://80.242.36.158:8080/",
+            "sourceUrl": "https://www.panorama.sk/sk/webkamery/mala-fatra/622"
+          },
+          {
+            "name" : "Chata na Grúni I",
+            "thumbUrl": "https://oh.sk/webcams/d/1207.jpg",
+            "imageUrl": "https://oh.sk/webcams/d/1207.jpg",
+            "videoUrl": "https://frn.rtsp.me/2XP348vFEueNGBl-EbuNCg/1668706630/hls/a5Hd79SN.m3u8",
+            "sourceUrl": "https://www.panorama.sk/sk/webkamera/chata-na-gruni/1207"
+          },
+          {
+            "name" : "Vrátna dolina - Paseky",
+            "thumbUrl": "https://wtvpict.feratel.com/picture/37/1076.jpeg",
+            "imageUrl": "https://wtvpict.feratel.com/picture/37/1076.jpeg",
+            "videoUrl": "",
+            "sourceUrl": "https://www.panorama.sk/sk/webkamera/vratna-dolina/3169"
+          },
+          {
+            "name" : "Chata na Grúni II",
+            "thumbUrl": "http://www.chatanagruni.sk/webkamera/webkamera2.jpg",
+            "imageUrl": "http://www.chatanagruni.sk/webkamera/webkamera2.jpg",
+            "videoUrl": "",
+            "sourceUrl": "http://www.chatanagruni.sk"
+          },
+          {
+            "name" : "Zázrivá II",
+            "thumbUrl": "http://cam.hotelhavrania.sk/view.php?preview=0&cam=2/view.jpg",
+            "imageUrl": "http://cam.hotelhavrania.sk/view.php?preview=0&cam=2/view.jpg",
+            "videoUrl": "",
+            "sourceUrl": "https://www.hotelhavrania.sk/sk/hotel/webcam"
           }
        ]
      },
@@ -184,6 +254,34 @@
       "locationName": "Veľká Fatra",
       "cameras" : [
            {
+            "name" : "Malinô Brdo",
+            "thumbUrl": "http://oh.sk/webcams/d/2238.jpg",
+            "imageUrl": "http://oh.sk/webcams/d/2238.jpg",
+            "videoUrl": "https://stream.profi-net.sk/mb/MALINO2.stream/playlist.m3u8",
+            "sourceUrl": "https://www.panorama.sk/sk/webkamery/lyziarske-strediska/velka-fatra/623"
+          },
+               {
+            "name" : "",
+            "thumbUrl": "",
+            "imageUrl": "",
+            "videoUrl": "",
+            "sourceUrl": ""
+          },
+               {
+            "name" : "",
+            "thumbUrl": "",
+            "imageUrl": "",
+            "videoUrl": "",
+            "sourceUrl": ""
+          },
+               {
+            "name" : "",
+            "thumbUrl": "",
+            "imageUrl": "",
+            "videoUrl": "",
+            "sourceUrl": ""
+          },
+               {
             "name" : "",
             "thumbUrl": "",
             "imageUrl": "",
