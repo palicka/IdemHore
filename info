@@ -261,32 +261,11 @@
             "sourceUrl": "https://www.panorama.sk/sk/webkamery/lyziarske-strediska/velka-fatra/623"
           },
                {
-            "name" : "",
-            "thumbUrl": "",
-            "imageUrl": "",
+            "name" : "Jasenská dolina",
+            "thumbUrl": "https://wtvpict.feratel.com/picture/37/1004.jpeg",
+            "imageUrl": "https://wtvpict.feratel.com/picture/37/1004.jpeg",
             "videoUrl": "",
-            "sourceUrl": ""
-          },
-               {
-            "name" : "",
-            "thumbUrl": "",
-            "imageUrl": "",
-            "videoUrl": "",
-            "sourceUrl": ""
-          },
-               {
-            "name" : "",
-            "thumbUrl": "",
-            "imageUrl": "",
-            "videoUrl": "",
-            "sourceUrl": ""
-          },
-               {
-            "name" : "",
-            "thumbUrl": "",
-            "imageUrl": "",
-            "videoUrl": "",
-            "sourceUrl": ""
+            "sourceUrl": "https://www.panorama.sk/sk/webkamera/jasenska-dolina/1130"
           }
        ]
      },
@@ -295,11 +274,18 @@
       "locationName": "Lúčanská Malá Fatra",
       "cameras" : [
            {
-            "name" : "",
-            "thumbUrl": "",
-            "imageUrl": "",
+            "name" : "Martinské Hole I",
+            "thumbUrl": "https://oh.sk/webcams/d/2251.jpg",
+            "imageUrl": "https://oh.sk/webcams/d/2251.jpg",
             "videoUrl": "",
-            "sourceUrl": ""
+            "sourceUrl": "https://www.panorama.sk/sk/webkamery/lyziarske-strediska/mala-fatra/622"
+          },
+          {
+            "name" : "Martinské Hole II",
+            "thumbUrl": "https://oh.sk/webcams/d/722.jpg",
+            "imageUrl": "https://oh.sk/webcams/d/722.jpg",
+            "videoUrl": "",
+            "sourceUrl": "https://www.panorama.sk/sk/webkamery/lyziarske-strediska/mala-fatra/622"
           }
        ]
      },
@@ -308,11 +294,39 @@
       "locationName": "Slovenský raj",
       "cameras" : [
            {
-            "name" : "",
-            "thumbUrl": "",
-            "imageUrl": "",
+            "name" : "Mraznica - Hnilčík",
+            "thumbUrl": "http://rupkki.sk/webcam3/image.jpg",
+            "imageUrl": "http://rupkki.sk/webcam3/image.jpg",
             "videoUrl": "",
-            "sourceUrl": ""
+            "sourceUrl": "http://www.scm.sk/"
+          },
+          {
+            "name" : "Spišská Nová Ves",
+            "thumbUrl": "http://rupkki.sk/webcam2/image.jpg",
+            "imageUrl": "http://rupkki.sk/webcam2/image.jpg",
+            "videoUrl": "",
+            "sourceUrl": "http://www.slovenskyraj.sk/webkamery/"
+          },
+          {
+            "name" : "Levoča",
+            "thumbUrl": "http://pocasielevoca.sk/data/snimek.jpg",
+            "imageUrl": "http://pocasielevoca.sk/data/snimek.jpg",
+            "videoUrl": "",
+            "sourceUrl": "http://pocasielevoca.sk/"
+          },
+          {
+            "name" : "Mlynky",
+            "thumbUrl": "https://oh.sk/webcams/d/1244.jpg",
+            "imageUrl": "https://oh.sk/webcams/d/1244.jpg",
+            "videoUrl": "",
+            "sourceUrl": "http://www.skimlynky.eu/online-kamera/vrch-vleku"
+          },
+          {
+            "name" : "Závadka",
+            "thumbUrl": "http://fotoflek.it7.sk/img/zavadka-snv.jpg",
+            "imageUrl": "http://fotoflek.it7.sk/img/zavadka-snv.jpg",
+            "videoUrl": "",
+            "sourceUrl": "https://www.panorama.sk/sk/webkamera/zavadka-pohlad-na-vysoke-tatry/2254"
           }
        ]
      }
