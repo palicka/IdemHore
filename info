@@ -69,8 +69,8 @@
           },
                    {
             "name" : "Popradské pleso I ",
-            "thumbUrl": "https://nobyelsat.sk/kamera/hhpplesostlp.jpeg?php%20echo%20time();%20?",
-            "imageUrl": "https://nobyelsat.sk/kamera/hhpplesostlp.jpeg?php%20echo%20time();%20?",
+            "thumbUrl": "https://nobyelsat.sk/kamera/hhpplesostlp.jpeg",
+            "imageUrl": "https://nobyelsat.sk/kamera/hhpplesostlp.jpeg",
             "videoUrl": "",
             "sourceUrl": "https://www.popradskepleso.sk/?page_id=1461"
           },
