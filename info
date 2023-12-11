@@ -15,7 +15,7 @@
             "name" : "Solisko",
             "thumbUrl": "https://meteo.tmr.sk/api/v2/files/uploads/cams/cam-55-320.jpg",
             "imageUrl": "https://meteo.tmr.sk/api/v2/files/uploads/cams/cam-55-800.jpg",
-            "videoUrl": "http://stream.profi-net.sk:1935/tmr/STREAM31.stream/playlist.m3u8",
+            "videoUrl": "http://stream.profi-net.sk:1935/tmr/STREAM54.stream/playlist.m3u8",
             "sourceUrl": "https://www.vt.sk/stredisko/info-o-stredisku/webkamery"
           },
                    {
