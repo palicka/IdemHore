@@ -15,7 +15,7 @@
             "name" : "Solisko",
             "thumbUrl": "https://meteo.tmr.sk/api/v2/files/uploads/cams/cam-55-320.jpg",
             "imageUrl": "https://meteo.tmr.sk/api/v2/files/uploads/cams/cam-55-800.jpg",
-            "videoUrl": "http://stream.profi-net.sk:1935/tmr/STREAM54.stream/playlist.m3u8",
+            "videoUrl": "http://stream.profi-net.sk:1935/tmr/STREAM31.stream/playlist.m3u8",
             "sourceUrl": "https://www.vt.sk/stredisko/info-o-stredisku/webkamery"
           },
                    {
@@ -34,8 +34,8 @@
           },
                    {
             "name" : "Skalnaté Pleso",
-            "thumbUrl": "https://meteo.tmr.sk/api/v2/files/uploads/cams/cam-37-320.jpg",
-            "imageUrl": "https://meteo.tmr.sk/api/v2/files/uploads/cams/cam-37-800.jpg",
+            "thumbUrl": "https://meteo.tmr.sk/api/v2/files/uploads/cams/cam-65-320.jpg",
+            "imageUrl": "https://meteo.tmr.sk/api/v2/files/uploads/cams/cam-65-800.jpg",
             "videoUrl": "http://stream.profi-net.sk:1935/tmr/STREAM29.stream/playlist.m3u8",
             "sourceUrl": "https://www.vt.sk/stredisko/info-o-stredisku/webkamery"
           },
@@ -131,8 +131,8 @@
           },
                      {
             "name" : "Telgárt - Tresník",
-            "thumbUrl": "https://skitelgart.sk/cams/TresnikNadol000.jpg",
-            "imageUrl": "https://skitelgart.sk/cams/TresnikNadol000.jpg",
+            "thumbUrl": "https://skitelgart.sk/cams/3/TresnikNadol000.jpg",
+            "imageUrl": "https://skitelgart.sk/cams/3/TresnikNadol000.jpg",
             "videoUrl": "",
             "sourceUrl": "https://www.panorama.sk/sk/webkamera/ski-telgart-tresnik-kralova-hola/367"
           },
@@ -145,8 +145,8 @@
           },
             {
             "name" : "Srdiečko",
-            "thumbUrl": "https://www.zivekamery.sk/webcams/SRDIE-l.jpg",
-            "imageUrl": "https://www.zivekamery.sk/webcams/SRDIE-l.jpg",
+            "thumbUrl": "https://meteo.tmr.sk/api/v2/files/uploads/cams/cam-34.jpg",
+            "imageUrl": "https://meteo.tmr.sk/api/v2/files/uploads/cams/cam-34.jpg",
             "videoUrl": "https://stream.profi-net.sk:443/tmr/STREAM22.stream/playlist.m3u8",
             "sourceUrl": "https://www.jasna.sk/stredisko/info-o-stredisku/webkamery/srdiecko-1210-mnm"
           },
@@ -171,6 +171,13 @@
       "id": 3,
       "locationName": "Západné Tatry",
       "cameras" : [
+              {
+            "name" : "Pribylina I",
+            "thumbUrl": "http://www.mag-net.sk/webcam-pan_pribylina.jpg",
+            "imageUrl": "http://www.mag-net.sk/webcam-pan_pribylina.jpg",
+            "videoUrl": "",
+            "sourceUrl": "http://www.mag-net.sk/"
+          },
            {
             "name" : "Roháče - Spálená dolina",
             "thumbUrl": "https://wtvpict.feratel.com/picture/37/1014.jpeg",
@@ -179,7 +186,7 @@
             "sourceUrl": "https://www.panorama.sk/sk/webkamery/vysoke-tatry/353"
           },
               {
-            "name" : "Pribylina",
+            "name" : "Pribylina II",
             "thumbUrl": "http://www.zivekamery.sk/webcams/PRIB-m.jpg",
             "imageUrl": "http://www.zivekamery.sk/webcams/PRIB-l.jpg",
             "videoUrl": "",
